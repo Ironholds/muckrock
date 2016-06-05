@@ -3,10 +3,11 @@ Type: Package
 Title: Data on Freedom of Information Act requests
 Version: 0.1.0
 Maintainer: Oliver Keyes <ironholds@gmail.com>
-Authors: Oliver Keyes [aut, cre], MuckRock Project [cph]
+Author: Oliver Keyes [aut, cre], MuckRock Project [cph]
 Description: A data package containing public domain information on requests made by the
              'MuckRock' (https://www.muckrock.com/) project under the United States
              Freedom of Information Act.
 License: Unlimited
 LazyData: TRUE
 RoxygenNote: 5.0.1
+Depends: R (>= 2.10)

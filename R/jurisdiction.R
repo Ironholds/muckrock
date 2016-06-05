@@ -23,14 +23,12 @@
 #'   redirecting.}
 #'   \item{payment_required}{The number of FOIA requests where the jurisdiction requires payment
 #'   to process the materials}
-#'   \item{rejected}{The number of FOIA requests where the jurisdiction rejected the
-#'   request}
 #'   \item{no_response}{The number of FOIA requests where the jurisdiction has not responded.}
 #'   \item{completed}{The number of FOIA requests where the jurisdiction provided the requested
 #'   materials.}
-#'   \item{completed}{The number of FOIA requests where the jurisdiction provided \emph{some}
+#'   \item{partially_completed}{The number of FOIA requests where the jurisdiction provided \emph{some}
 #'   of the requested materials}
-#'   \item{partially_completed}{The number of FOIA requests where the jurisdiction rejected the
+#'   \item{rejected}{The number of FOIA requests where the jurisdiction rejected the
 #'   request}
 #'   \item{withdrawn}{The number of FOIA requests where the jurisdiction rejected the
 #'   request}
