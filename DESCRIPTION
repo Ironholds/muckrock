@@ -1,6 +1,6 @@
 Package: muckrock
 Type: Package
-Title: Data on Freedom of Information Act requests
+Title: Data on Freedom of Information Act Requests
 Version: 0.1.0
 Date: 2016-06-05
 Maintainer: Oliver Keyes <ironholds@gmail.com>
